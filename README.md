@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 <h1>My Stats🔥</h1>
 
-<div id= "stats" align = "center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazimayaan&theme=neon-dark&border_radius=5.5)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimayaan)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+

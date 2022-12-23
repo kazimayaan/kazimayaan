@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-### My Stats:
+<h1>My Stats:</h1>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazimayaan&theme=neon-dark&border_radius=5.5)](https://git.io/streak-stats)

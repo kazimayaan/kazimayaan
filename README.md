@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 <br>
 <h1>My Stats🔥</h1>
 
+<div align="center">
+  <a href="https://github.com/aftabahamed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazimayaan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" hspace="10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimayaan&layout=default&langs_count=7&theme=dark"/>
+</div>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazimayaan&theme=neon-dark&border_radius=5.5)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimayaan&show_icons=true&theme=radical)

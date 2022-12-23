@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 <div id="profile_views" align="center">
 <img src="https://komarev.com/ghpvc/?username=kazimayaan&style=flat-square&color=blue" alt=""/>
 </div>
+
+https://github-readme-streak-stats.herokuapp.com/?kazimayaan

@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazimayaan&theme=neon-dark&border_radius=5.5)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimayaan&show_icons=true&theme=radical)
+
+<br/>
+<div align="center">
+<!--   <img align="center" alt="GRID-SNAKE" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"> -->
+  <img align="center" alt="GRID-SNAKE" src="https://technoinsider.in/dev/github-contribution-grid-snake.svg">
+</div>

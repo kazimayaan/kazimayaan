@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div> -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazimayaan&theme=neon-dark&border_radius=5.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazimayaan&theme=radical&border_radius=5.5)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimayaan&show_icons=true&theme=radical)
 
 <br/>

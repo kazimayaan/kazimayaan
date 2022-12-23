@@ -33,5 +33,9 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=kazimayaan&style=flat-square&color=blue" alt=""/>
 </div>
 
+<br>
+<br>
+### My Stats:
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazimayaan&theme=neon-dark&border_radius=5.5)](https://git.io/streak-stats)

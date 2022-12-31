@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazimayaan&theme=radical&border_radius=5.5)](https://git.io/streak-stats)
 
 <br/>
-![snake gif](https://github.com/YOUR_USERNAME/kazimayaan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kazimayaan/kazimayaan/blob/output/github-contribution-grid-snake.gif)
 
